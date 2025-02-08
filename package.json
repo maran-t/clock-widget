@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^34.1.0"
+  },
+  "name": "clock-widget",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
